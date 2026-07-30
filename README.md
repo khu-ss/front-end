@@ -1,3 +1,8 @@
+<p align="left">
+  <a href="README.md"><strong>🇮🇷 فارسی</strong></a> |
+  <a href="README.en.md"><strong>🇬🇧 English</strong></a>
+</p>
+
 # 📚 Smart Study Planner
 
 > یک اپلیکیشن برنامه‌ریزی هوشمند برای مدیریت دروس، وظایف و زمان مطالعه
